@@ -17,7 +17,7 @@ Our architecture is different than other auth providers as your backend API laye
 - [GoLang](https://github.com/supertokens/supertokens-golang)
 
 ### Frontend SDKs Available:
-- [Vanilla JS (Vue / Angular / JS)](https://github.com/supertokens/supertokens-website)
+- [Vanilla JS (Vue / Angular / JS)](https://github.com/supertokens/supertokens-web-js)
 - [ReactJS](https://github.com/supertokens/supertokens-auth-react)
 - [React-Native](https://github.com/supertokens/supertokens-react-native)
 
